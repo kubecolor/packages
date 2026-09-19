@@ -1,5 +1,5 @@
 Package: kubecolor
-Version: 0.7.1
+Version: 0.8.0
 Architecture: armhf
 Maintainer: Kalle Fagerberg <applejag-packages.gigabyte962@passmail.net>
 Installed-Size: 6305
@@ -7,10 +7,10 @@ Recommends: kubectl
 Homepage: https://kubecolor.github.io/
 Priority: optional
 Section: 
-Filename: pool/main/k/kubecolor/kubecolor_0.7.1_armhf.deb
-Size: 2704578
-SHA256: 5f5b802abb9d4a62fcf26eee4e605637fd5a2eb878d3ee6b9c2fb7d2fe7bb4be
-SHA1: 1fc16f8b671048e360da1ab7464bc0336cf3a061
-MD5sum: 5455a42ffded7aa33c90e1e6904a1743
+Filename: pool/main/k/kubecolor/kubecolor_0.8.0_armhf.deb
+Size: 2721974
+SHA256: ca4aa6b44d8814cc2d2fba8cfb5d2ac9357304edc1250f7fdfe9e244b83341af
+SHA1: a047ba2bf4a7a5aaa1d91f1761e0198060def6da
+MD5sum: fc8b08a007f4990d4955ffd98accd230
 Description: a kubectl wrapper used to add colors to your kubectl output
 
